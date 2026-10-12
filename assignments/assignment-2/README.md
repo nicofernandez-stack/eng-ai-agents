@@ -8,4 +8,5 @@ Date:10/11/2026
 3. Run the cells in order. Runs can take upwards of 45 minutes. Each run needs "backup()" after each one
 
 ##Trackio
-Track is run locally, instead of using a HF space. I have attached a screen shot of the dashboard with the three runs as "Assignment2_PartB.ipynb"
+
+Trackiois run locally, instead of using a HF space. I have attached a screen shot of the dashboard with the three runs as "Assignment2_PartB.ipynb"
