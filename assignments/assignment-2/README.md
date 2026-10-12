@@ -9,4 +9,5 @@ Date:10/11/2026
 
 ##Trackio
 
-Trackiois run locally, instead of using a HF space. I have attached a screen shot of the dashboard with the three runs as "Assignment2_PartB.ipynb"
+Trackiois run locally, instead of using a HF space. I have attached screenshots of the graphs from the dashboard as "Assignment2-PartB", "Assignment2-PartC", and "Assignment2-PartD"
+
